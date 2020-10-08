@@ -20,4 +20,6 @@ import (
 
 func main() {
     fmt.Println("Hello, world!")
+    fmt.Println("Hello, world!")
+    echo "The time is $(date)."
 }
